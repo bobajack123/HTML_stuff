@@ -7,8 +7,6 @@ as i can use js to make some interesting elements on the page.
 This is mainly going to show how many pictures i have on my image server using the screenshot tool
 known as ShareX, as you can have a custom uploader on it. 
 
-This is NOT open source please DO NOT attempt to make changes
-
 My website has a few prerequisite's
 links: 
 https://github.com/tgpethan/Revolution (webserver)

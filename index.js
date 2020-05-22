@@ -7,6 +7,14 @@ window.onload = function() {
 window.onload = function() {
     this.console.log("why are you looking in here HUH if your getting errors dm me on discord @jAcK#8161")
 }
+window.onload = function() {
+        document.getElementById("APISTAT").innerHTML = "/api/get-stats?s=1&f=1 "
+    }
+    // gets information from the api that can see the amount of files on there
 
 // doesnt work yet
+
+
+
+
 // "If you're going through hell, keep going." - Winston Churchill
